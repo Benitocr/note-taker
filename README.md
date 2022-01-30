@@ -21,8 +21,8 @@ A website where you can keep your notes.
 
 https://ben-note-taker.herokuapp.com/
 
-![page of note Taker app](mokup.jpg)
-
+![page of note Taker app](images/mokup.jpg)
+![page of note Taker app](images/mokup1.jpg)
 
 ## GitHub Repository
 
