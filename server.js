@@ -1,7 +1,5 @@
 const apiRoutes = require('./routes/apiRoutes'); 
 const htmlRoutes = require('./routes/htmlRoutes');
-const fs = require('fs');
-const path = require('path');
 const express = require('express');
 const app = express();
 // parse incoming string or array data
@@ -12,10 +10,9 @@ app.use(express.static('public'));
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
-const { notes } = require('./db/db.json');
 const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => {
-    console.log(`Note Taker API server now on port ${PORT}!`);
+    console.log(`Note Taker API delete server now on port ${PORT}!`);
 });
 
