@@ -1,5 +1,5 @@
 # Note Taker Application
-![Javascript](https://img.shields.io/badge/Javascipt-blue)
+![Javascript](https://img.shields.io/badge/Javascipt-blue) ![HTML](https://img.shields.io/badge/HTML-yellow)
 
 ## Purpose
 A website where you can keep your notes.
