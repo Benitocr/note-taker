@@ -13,6 +13,6 @@ app.use('/', htmlRoutes);
 const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => {
-    console.log(`Note Taker API delete server now on port ${PORT}!`);
+    console.log(`Note Taker API server now on port ${PORT}!`);
 });
 
