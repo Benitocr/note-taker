@@ -22,7 +22,7 @@ A website where you can keep your notes.
 https://ben-note-taker.herokuapp.com/
 
 ![page of note taker app](images/mokup.JPG)
-![page of note Taker app](images/mokup1.jpg)
+![page of note Taker app](images/mokup1.JPG)
 
 ## GitHub Repository
 
